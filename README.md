@@ -46,7 +46,7 @@ This project was made with the following technologies:
 1. Clone the repo :
 
 ```sh
-  $ git clone https://github.com/sanderdsz/ecoleta.git
+  $ git clone https://github.com/Cancellier27/Ecoleta-app
 ```
 
 2. Execute the app:
